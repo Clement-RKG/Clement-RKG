@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Clement-RKG
+- 👋 Hi, I’m @ClementRKG
 - 👀 I’m interested in development and cybersecurity
 - 🌱 I’m currently learning C++ and Unix
 - 📫 You can reach me on clement.salomon@etu.univ-amu.fr
