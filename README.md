@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ClementRKG
+- 👋 Hi, I’m @ClementSalomon
 - 👀 I’m interested in development and AI
 - 🌱 I’m currently learning C++ and Unix
 - 📫 You can reach me on clement.salomon@etu.univ-amu.fr
