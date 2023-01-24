@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ClementSalomon
 - 👀 I’m interested in development and AI
-- 🌱 I’m currently learning C++ and Unix
+- 🌱 I’m currently learning Unix, C++ and Java
 - 📫 You can reach me on clement.salomon@etu.univ-amu.fr
 
 <!---
