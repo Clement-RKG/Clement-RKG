@@ -1,4 +1,4 @@
-- 👋 Hi, I’m <a href="https://github.com/ClementSALOMONS22005748"> @ClementSalomonS22005748 </a>
+- 👋 Hi, I’m <a href="https://github.com/SALOMON-Clement-2225077aa"> @SALOMON-Clement-2225077aa </a>
 - 👀 I’m interested in development and AI
 - 🌱 I’m currently on my 2nd year of learning computer science
 - 🏫 IUT Informatique d'Aix en Provence
